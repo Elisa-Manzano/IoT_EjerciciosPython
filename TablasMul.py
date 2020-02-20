@@ -1,4 +1,6 @@
-
+#Aplicaciones De IoT
+#Balderas Manzano Maria Elisa
+#GDS0151, 19 de febrero 2020
 #Función que imprima las 10 tablas de multiplicar.
 
 def imprimir_tabla(numero):
@@ -12,5 +14,5 @@ def imprimir_tabla(numero):
         # Incrementar contador para no caer en ciclo infinito
         contador = contador + 1
 
-# Probar función
+# Probar función, ingrese un numero
 imprimir_tabla(4)
