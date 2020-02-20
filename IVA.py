@@ -1,3 +1,7 @@
+#Aplicaciones De IoT
+#Balderas Manzano Maria Elisa
+#GDS0151, 19 de febrero 2020
+#Realizar el desglose del IVA de una cifra dada,
 PORCENTAJE_IVA = 16
 
 conteo_productos = 1  # Saber en cuál producto vamos
